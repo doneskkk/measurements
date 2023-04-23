@@ -23,7 +23,7 @@ This project is a web-based application for managing sensor data using various S
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your_username/sensor-data-management-system.git
+   git clone https://github.com/doneskkk/measurements.git
    ```
 
 2. Configure the MySQL database:
