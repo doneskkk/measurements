@@ -19,7 +19,7 @@ import javax.validation.Valid;
 import static com.example.project3.exception.Errors.returnErrorsToClient;
 
 @RestController
-@RequestMapping("/api/v1/sensor")
+@RequestMapping("/api/v1/sensors")
 public class SensorController {
 
     private final ModelMapper modelMapper;
