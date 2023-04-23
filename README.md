@@ -70,7 +70,7 @@ Users can view all measurements in the system.
 ### Get the number of rainy days
 
 The system can calculate the number of rainy days based on the measurements taken by sensors.
-# measurement-client : https://github.com/doneskkk/measurements-client
+# measurement-client : https://github.com/doneskkk/measurement-client
 ## Contributors
 
 - Dones Chiril (@doneskkk)
