@@ -28,7 +28,6 @@ public class Measurement {
     private Boolean isRaining;
 
     @Column(name = "measurement_date_time")
-    @NotNull
     private LocalDateTime measurementTime;
 
     @NotNull
