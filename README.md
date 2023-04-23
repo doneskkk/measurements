@@ -1,5 +1,5 @@
 
-# Sensor Data Management System
+# measurement-api
 
 This project is a web-based application for managing sensor data using various Spring technologies such as Spring Boot, Spring Data JPA, and Spring I/O Validation. The system allows users to register new sensors, add new measurements from the sensors, view all measurements, and calculate the number of rainy days.
 
