@@ -28,7 +28,7 @@ This project is a web-based application for managing sensor data using various S
 
 2. Configure the MySQL database:
 
-   - Create a new database with the name "sensor_data_db"
+   - Create a new database with the name "rest_api_3"
    - Update the database connection settings in the application.properties file
 
 3. Build and run the application:
